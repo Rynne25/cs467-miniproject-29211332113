@@ -1,0 +1,266 @@
+user_id,item_id,rating,reflection_note
+USR_02,ITEM_004,5.0,Outstanding STEM tutoring program! The kids made remarkable math progress.
+USR_02,ITEM_008,5.0,Incredible literacy circle. Watching young students read confidently was so rewarding.
+USR_02,ITEM_015,5.0,Great science experiments and tutoring lab. Kids were super engaged and inspired.
+USR_02,ITEM_019,4.0,"Good archiving experience, very quiet and educational atmosphere."
+USR_02,ITEM_033,5.0,Teaching computer basics to kids was fantastic! Highly recommend for student tutors.
+USR_02,ITEM_001,3.0,Beach cleanup was nice but I clearly prefer academic tutoring.
+USR_01,ITEM_001,5.0,Super energetic beach cleanup! Kids loved the marine biology workshop.
+USR_01,ITEM_002,4.0,Nice tree planting event with enthusiastic neighbors.
+USR_01,ITEM_012,5.0,The best weekend environmental education session for children!
+USR_01,ITEM_016,4.0,Organic rooftop garden was very well organized.
+USR_01,ITEM_021,5.0,Mangrove restoration with kids was an unforgettable experience.
+USR_01,ITEM_029,4.0,Very informative waste auditing work.
+USR_03,ITEM_007,5.0,Loving dogs and dedicated shelter staff. Extremely fulfilling.
+USR_03,ITEM_017,5.0,Adopted out 8 kittens! Best weekend ever.
+USR_03,ITEM_023,4.0,Fascinating work with injured raptors.
+USR_03,ITEM_031,5.0,Gentle therapy horses and wonderful kids.
+USR_03,ITEM_034,5.0,Agility training helped shy rescue dogs blossom!
+USR_04,ITEM_005,5.0, heartwarming conversations with lovely seniors.
+USR_04,ITEM_009,5.0,Watercolor painting brought bright smiles to pediatric patients.
+USR_04,ITEM_014,4.0,Seniors were eager to learn smartphone video calls.
+USR_04,ITEM_025,5.0,Mobile health clinic reached people in genuine need.
+USR_04,ITEM_030,4.0,Sensory garden is serene and peaceful.
+USR_05,ITEM_006,5.0,Fast-paced food packaging and vital relief delivery.
+USR_05,ITEM_013,5.0,Hot nutritious soup kitchen with great community spirit.
+USR_05,ITEM_022,4.0,Emergency hygiene kits were neatly packed and distributed.
+USR_05,ITEM_011,4.0,Bicycle clinic helped students fix their daily commutes.
+USR_05,ITEM_036,5.0,Resume writing gave job applicants real confidence.
+USR_06,ITEM_018,4.0,"Well organized community project, friendly team."
+USR_06,ITEM_014,2.0,"Coordination was decent, meaningful community engagement."
+USR_06,ITEM_005,5.0,Learned lots of practical skills while helping others.
+USR_06,ITEM_030,5.0,"Well organized community project, friendly team."
+USR_06,ITEM_036,2.0,"Great initiative, made a real impact for the neighborhood."
+USR_06,ITEM_026,4.0,"Coordination was decent, meaningful community engagement."
+USR_06,ITEM_007,3.0,Challenging but very worthwhile civic participation.
+USR_06,ITEM_027,5.0,"Rewarding volunteer hours, would definitely join again."
+USR_06,ITEM_025,5.0,"Coordination was decent, meaningful community engagement."
+USR_06,ITEM_017,3.0,"Coordination was decent, meaningful community engagement."
+USR_06,ITEM_009,4.0,Learned lots of practical skills while helping others.
+USR_06,ITEM_016,3.0,"Coordination was decent, meaningful community engagement."
+USR_06,ITEM_013,3.0,"Great initiative, made a real impact for the neighborhood."
+USR_06,ITEM_033,5.0,"Great initiative, made a real impact for the neighborhood."
+USR_07,ITEM_004,4.0,"Well organized community project, friendly team."
+USR_07,ITEM_002,5.0,"Well organized community project, friendly team."
+USR_07,ITEM_005,4.0,"Great initiative, made a real impact for the neighborhood."
+USR_07,ITEM_006,3.0,Learned lots of practical skills while helping others.
+USR_07,ITEM_010,4.0,"Rewarding volunteer hours, would definitely join again."
+USR_07,ITEM_019,4.0,Learned lots of practical skills while helping others.
+USR_07,ITEM_032,5.0,"Well organized community project, friendly team."
+USR_07,ITEM_012,4.0,Learned lots of practical skills while helping others.
+USR_07,ITEM_003,5.0,Challenging but very worthwhile civic participation.
+USR_08,ITEM_001,4.0,"Great initiative, made a real impact for the neighborhood."
+USR_08,ITEM_032,3.0,"Well organized community project, friendly team."
+USR_08,ITEM_037,4.0,"Well organized community project, friendly team."
+USR_08,ITEM_008,3.0,"Rewarding volunteer hours, would definitely join again."
+USR_08,ITEM_025,4.0,"Coordination was decent, meaningful community engagement."
+USR_08,ITEM_018,4.0,"Rewarding volunteer hours, would definitely join again."
+USR_08,ITEM_012,2.0,"Rewarding volunteer hours, would definitely join again."
+USR_08,ITEM_023,4.0,Challenging but very worthwhile civic participation.
+USR_08,ITEM_035,4.0,"Great initiative, made a real impact for the neighborhood."
+USR_09,ITEM_010,4.0,"Rewarding volunteer hours, would definitely join again."
+USR_09,ITEM_034,4.0,"Well organized community project, friendly team."
+USR_09,ITEM_008,5.0,Challenging but very worthwhile civic participation.
+USR_09,ITEM_013,4.0,Learned lots of practical skills while helping others.
+USR_09,ITEM_004,4.0,"Well organized community project, friendly team."
+USR_09,ITEM_036,3.0,"Rewarding volunteer hours, would definitely join again."
+USR_09,ITEM_016,3.0,Challenging but very worthwhile civic participation.
+USR_09,ITEM_014,5.0,"Coordination was decent, meaningful community engagement."
+USR_09,ITEM_023,4.0,"Rewarding volunteer hours, would definitely join again."
+USR_09,ITEM_011,5.0,"Rewarding volunteer hours, would definitely join again."
+USR_09,ITEM_001,4.0,"Coordination was decent, meaningful community engagement."
+USR_10,ITEM_019,5.0,"Coordination was decent, meaningful community engagement."
+USR_10,ITEM_021,4.0,Learned lots of practical skills while helping others.
+USR_10,ITEM_014,5.0,"Well organized community project, friendly team."
+USR_10,ITEM_030,2.0,Learned lots of practical skills while helping others.
+USR_10,ITEM_008,4.0,Learned lots of practical skills while helping others.
+USR_10,ITEM_029,4.0,Challenging but very worthwhile civic participation.
+USR_10,ITEM_006,3.0,"Well organized community project, friendly team."
+USR_10,ITEM_004,2.0,Learned lots of practical skills while helping others.
+USR_11,ITEM_018,3.0,Learned lots of practical skills while helping others.
+USR_11,ITEM_021,4.0,"Well organized community project, friendly team."
+USR_11,ITEM_033,5.0,Challenging but very worthwhile civic participation.
+USR_11,ITEM_011,4.0,Challenging but very worthwhile civic participation.
+USR_11,ITEM_009,4.0,"Coordination was decent, meaningful community engagement."
+USR_11,ITEM_035,5.0,Challenging but very worthwhile civic participation.
+USR_11,ITEM_037,4.0,"Well organized community project, friendly team."
+USR_11,ITEM_010,4.0,"Great initiative, made a real impact for the neighborhood."
+USR_11,ITEM_004,4.0,Learned lots of practical skills while helping others.
+USR_11,ITEM_034,4.0,Learned lots of practical skills while helping others.
+USR_11,ITEM_030,3.0,Learned lots of practical skills while helping others.
+USR_11,ITEM_015,4.0,"Rewarding volunteer hours, would definitely join again."
+USR_12,ITEM_005,3.0,"Great initiative, made a real impact for the neighborhood."
+USR_12,ITEM_021,5.0,"Well organized community project, friendly team."
+USR_12,ITEM_024,2.0,Learned lots of practical skills while helping others.
+USR_12,ITEM_028,4.0,"Rewarding volunteer hours, would definitely join again."
+USR_12,ITEM_019,3.0,"Well organized community project, friendly team."
+USR_12,ITEM_020,5.0,"Coordination was decent, meaningful community engagement."
+USR_12,ITEM_006,3.0,Challenging but very worthwhile civic participation.
+USR_12,ITEM_034,4.0,Learned lots of practical skills while helping others.
+USR_12,ITEM_015,2.0,"Coordination was decent, meaningful community engagement."
+USR_13,ITEM_010,4.0,"Rewarding volunteer hours, would definitely join again."
+USR_13,ITEM_032,5.0,"Well organized community project, friendly team."
+USR_13,ITEM_004,4.0,"Coordination was decent, meaningful community engagement."
+USR_13,ITEM_003,2.0,"Well organized community project, friendly team."
+USR_13,ITEM_018,4.0,Learned lots of practical skills while helping others.
+USR_13,ITEM_011,5.0,"Coordination was decent, meaningful community engagement."
+USR_13,ITEM_037,2.0,"Great initiative, made a real impact for the neighborhood."
+USR_13,ITEM_031,4.0,"Coordination was decent, meaningful community engagement."
+USR_13,ITEM_007,3.0,Learned lots of practical skills while helping others.
+USR_13,ITEM_034,4.0,"Great initiative, made a real impact for the neighborhood."
+USR_13,ITEM_025,4.0,Challenging but very worthwhile civic participation.
+USR_13,ITEM_008,5.0,"Coordination was decent, meaningful community engagement."
+USR_13,ITEM_022,4.0,"Great initiative, made a real impact for the neighborhood."
+USR_14,ITEM_007,4.0,Learned lots of practical skills while helping others.
+USR_14,ITEM_028,5.0,"Well organized community project, friendly team."
+USR_14,ITEM_006,4.0,"Great initiative, made a real impact for the neighborhood."
+USR_14,ITEM_034,4.0,Challenging but very worthwhile civic participation.
+USR_14,ITEM_031,5.0,"Coordination was decent, meaningful community engagement."
+USR_14,ITEM_013,4.0,Challenging but very worthwhile civic participation.
+USR_14,ITEM_009,3.0,"Great initiative, made a real impact for the neighborhood."
+USR_14,ITEM_030,4.0,"Rewarding volunteer hours, would definitely join again."
+USR_14,ITEM_015,5.0,"Coordination was decent, meaningful community engagement."
+USR_14,ITEM_029,4.0,Learned lots of practical skills while helping others.
+USR_15,ITEM_035,5.0,"Well organized community project, friendly team."
+USR_15,ITEM_002,3.0,Challenging but very worthwhile civic participation.
+USR_15,ITEM_006,4.0,Learned lots of practical skills while helping others.
+USR_15,ITEM_008,4.0,Challenging but very worthwhile civic participation.
+USR_15,ITEM_028,5.0,Challenging but very worthwhile civic participation.
+USR_15,ITEM_001,4.0,"Great initiative, made a real impact for the neighborhood."
+USR_15,ITEM_027,5.0,"Well organized community project, friendly team."
+USR_15,ITEM_015,5.0,"Coordination was decent, meaningful community engagement."
+USR_15,ITEM_011,5.0,Learned lots of practical skills while helping others.
+USR_15,ITEM_005,3.0,Challenging but very worthwhile civic participation.
+USR_15,ITEM_010,3.0,"Well organized community project, friendly team."
+USR_15,ITEM_003,5.0,"Great initiative, made a real impact for the neighborhood."
+USR_01,ITEM_010,4.0,Recommended for student volunteers seeking practical skills.
+USR_01,ITEM_036,5.0,Meaningful work with wonderful team members.
+USR_01,ITEM_035,3.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_01,ITEM_032,5.0,Recommended for student volunteers seeking practical skills.
+USR_01,ITEM_025,4.0,"Good logistical support, positive community impact."
+USR_01,ITEM_027,4.0,Meaningful work with wonderful team members.
+USR_01,ITEM_005,4.0,Very well structured volunteer event.
+USR_01,ITEM_033,4.0,"Good logistical support, positive community impact."
+USR_01,ITEM_031,5.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_01,ITEM_022,3.0,Meaningful work with wonderful team members.
+USR_01,ITEM_024,5.0,Very well structured volunteer event.
+USR_01,ITEM_014,5.0,Recommended for student volunteers seeking practical skills.
+USR_01,ITEM_006,5.0,"Good logistical support, positive community impact."
+USR_02,ITEM_037,4.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_02,ITEM_032,3.0,Very well structured volunteer event.
+USR_02,ITEM_036,4.0,Recommended for student volunteers seeking practical skills.
+USR_02,ITEM_002,3.0,Recommended for student volunteers seeking practical skills.
+USR_02,ITEM_024,3.0,Recommended for student volunteers seeking practical skills.
+USR_02,ITEM_023,3.0,"Good logistical support, positive community impact."
+USR_02,ITEM_010,4.0,Recommended for student volunteers seeking practical skills.
+USR_02,ITEM_007,3.0,Very well structured volunteer event.
+USR_02,ITEM_030,3.0,Recommended for student volunteers seeking practical skills.
+USR_02,ITEM_022,3.0,Meaningful work with wonderful team members.
+USR_02,ITEM_006,3.0,"Good logistical support, positive community impact."
+USR_02,ITEM_003,3.0,Recommended for student volunteers seeking practical skills.
+USR_02,ITEM_014,3.0,Meaningful work with wonderful team members.
+USR_03,ITEM_009,5.0,Very well structured volunteer event.
+USR_03,ITEM_012,3.0,Very well structured volunteer event.
+USR_03,ITEM_030,5.0,"Good logistical support, positive community impact."
+USR_03,ITEM_026,3.0,"Good logistical support, positive community impact."
+USR_03,ITEM_027,5.0,Meaningful work with wonderful team members.
+USR_03,ITEM_003,3.0,"Good logistical support, positive community impact."
+USR_03,ITEM_006,4.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_03,ITEM_022,4.0,Meaningful work with wonderful team members.
+USR_03,ITEM_025,4.0,"Good logistical support, positive community impact."
+USR_03,ITEM_014,4.0,"Good logistical support, positive community impact."
+USR_03,ITEM_032,4.0,Meaningful work with wonderful team members.
+USR_03,ITEM_004,5.0,Very well structured volunteer event.
+USR_03,ITEM_019,3.0,Meaningful work with wonderful team members.
+USR_03,ITEM_011,4.0,Very well structured volunteer event.
+USR_04,ITEM_028,3.0,Recommended for student volunteers seeking practical skills.
+USR_04,ITEM_029,4.0,Very well structured volunteer event.
+USR_04,ITEM_013,4.0,Meaningful work with wonderful team members.
+USR_04,ITEM_019,5.0,Recommended for student volunteers seeking practical skills.
+USR_04,ITEM_024,3.0,Recommended for student volunteers seeking practical skills.
+USR_04,ITEM_022,3.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_04,ITEM_035,4.0,Meaningful work with wonderful team members.
+USR_04,ITEM_007,4.0,Very well structured volunteer event.
+USR_04,ITEM_023,4.0,Very well structured volunteer event.
+USR_04,ITEM_003,4.0,Recommended for student volunteers seeking practical skills.
+USR_04,ITEM_036,5.0,Recommended for student volunteers seeking practical skills.
+USR_04,ITEM_034,5.0,Meaningful work with wonderful team members.
+USR_05,ITEM_019,3.0,Very well structured volunteer event.
+USR_05,ITEM_020,3.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_05,ITEM_028,4.0,"Good logistical support, positive community impact."
+USR_05,ITEM_031,5.0,Very well structured volunteer event.
+USR_05,ITEM_005,5.0,Meaningful work with wonderful team members.
+USR_05,ITEM_010,4.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_05,ITEM_029,4.0,Meaningful work with wonderful team members.
+USR_05,ITEM_016,5.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_05,ITEM_008,4.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_05,ITEM_023,3.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_05,ITEM_009,5.0,Meaningful work with wonderful team members.
+USR_05,ITEM_024,3.0,Meaningful work with wonderful team members.
+USR_05,ITEM_021,4.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_05,ITEM_001,4.0,Recommended for student volunteers seeking practical skills.
+USR_06,ITEM_034,5.0,Recommended for student volunteers seeking practical skills.
+USR_06,ITEM_020,4.0,Very well structured volunteer event.
+USR_06,ITEM_031,4.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_06,ITEM_003,4.0,Very well structured volunteer event.
+USR_06,ITEM_004,3.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_07,ITEM_020,5.0,"Good logistical support, positive community impact."
+USR_07,ITEM_014,3.0,Meaningful work with wonderful team members.
+USR_07,ITEM_030,4.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_07,ITEM_007,5.0,Very well structured volunteer event.
+USR_07,ITEM_015,3.0,Very well structured volunteer event.
+USR_07,ITEM_024,4.0,Meaningful work with wonderful team members.
+USR_07,ITEM_031,4.0,Meaningful work with wonderful team members.
+USR_07,ITEM_009,5.0,"Good logistical support, positive community impact."
+USR_08,ITEM_010,4.0,"Good logistical support, positive community impact."
+USR_08,ITEM_003,4.0,Meaningful work with wonderful team members.
+USR_08,ITEM_029,4.0,Meaningful work with wonderful team members.
+USR_08,ITEM_034,5.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_08,ITEM_002,4.0,Meaningful work with wonderful team members.
+USR_08,ITEM_022,4.0,Recommended for student volunteers seeking practical skills.
+USR_08,ITEM_016,5.0,Recommended for student volunteers seeking practical skills.
+USR_09,ITEM_017,5.0,Recommended for student volunteers seeking practical skills.
+USR_09,ITEM_007,4.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_09,ITEM_028,4.0,Meaningful work with wonderful team members.
+USR_09,ITEM_035,5.0,Recommended for student volunteers seeking practical skills.
+USR_09,ITEM_024,5.0,"Good logistical support, positive community impact."
+USR_10,ITEM_013,5.0,"Good logistical support, positive community impact."
+USR_10,ITEM_020,3.0,Recommended for student volunteers seeking practical skills.
+USR_10,ITEM_034,4.0,Very well structured volunteer event.
+USR_10,ITEM_027,4.0,Recommended for student volunteers seeking practical skills.
+USR_10,ITEM_016,5.0,Very well structured volunteer event.
+USR_10,ITEM_022,3.0,"Good logistical support, positive community impact."
+USR_10,ITEM_024,3.0,"Good logistical support, positive community impact."
+USR_10,ITEM_005,4.0,"Good logistical support, positive community impact."
+USR_10,ITEM_018,5.0,Meaningful work with wonderful team members.
+USR_11,ITEM_002,4.0,"Good logistical support, positive community impact."
+USR_11,ITEM_017,5.0,Very well structured volunteer event.
+USR_11,ITEM_003,4.0,Very well structured volunteer event.
+USR_11,ITEM_019,4.0,"Good logistical support, positive community impact."
+USR_11,ITEM_026,3.0,Recommended for student volunteers seeking practical skills.
+USR_11,ITEM_007,4.0,"Good logistical support, positive community impact."
+USR_11,ITEM_001,3.0,Recommended for student volunteers seeking practical skills.
+USR_12,ITEM_004,4.0,"Good logistical support, positive community impact."
+USR_12,ITEM_016,4.0,Very well structured volunteer event.
+USR_12,ITEM_033,4.0,Very well structured volunteer event.
+USR_12,ITEM_022,3.0,Meaningful work with wonderful team members.
+USR_12,ITEM_030,4.0,Very well structured volunteer event.
+USR_12,ITEM_014,3.0,"Good logistical support, positive community impact."
+USR_12,ITEM_035,5.0,Recommended for student volunteers seeking practical skills.
+USR_13,ITEM_001,4.0,Very well structured volunteer event.
+USR_13,ITEM_015,3.0,"Good logistical support, positive community impact."
+USR_13,ITEM_016,3.0,Meaningful work with wonderful team members.
+USR_13,ITEM_030,4.0,"Good logistical support, positive community impact."
+USR_14,ITEM_024,5.0,Very well structured volunteer event.
+USR_14,ITEM_004,4.0,Very well structured volunteer event.
+USR_14,ITEM_023,3.0,Recommended for student volunteers seeking practical skills.
+USR_14,ITEM_011,4.0,Very well structured volunteer event.
+USR_14,ITEM_033,3.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_14,ITEM_010,5.0,Recommended for student volunteers seeking practical skills.
+USR_14,ITEM_019,5.0,Very well structured volunteer event.
+USR_14,ITEM_020,4.0,Meaningful work with wonderful team members.
+USR_15,ITEM_037,3.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_15,ITEM_032,3.0,"Good logistical support, positive community impact."
+USR_15,ITEM_012,4.0,Meaningful work with wonderful team members.
+USR_15,ITEM_026,4.0,"Great civic opportunity, thoroughly enjoyed participating."
+USR_15,ITEM_009,5.0,Very well structured volunteer event.
