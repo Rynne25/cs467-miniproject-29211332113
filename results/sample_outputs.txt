@@ -1,0 +1,91 @@
+================================================================================
+CS467 MINI-PROJECT: VOLUNTEER RECOMMENDER TEST CASE DEMONSTRATION
+Student: Le Van Hoai Rin | Student ID: 29211332113 | Section: CS467C (No. 14)
+================================================================================
+
+--- [TEST CASE 1: NATURAL LANGUAGE INTEREST QUERY SEARCH] ---
+Query Text: "weekend beach cleanup and environmental education for kids"
+Expected Outcome: Top-5 matching activities related to coastal/beach cleanup and kids eco-education.
+
+  Rank 1: [ITEM_001] Weekend Coastal Beach Cleanup and Marine Conservation
+          Cause Area       : Environmental Protection
+          Cosine Score     : 0.5298
+          Matching Keywords: beach cleanup, beach, cleanup, cleanup environmental
+
+  Rank 2: [ITEM_012] Junior Eco-Warrior Beach Cleanup and Nature Discovery
+          Cause Area       : Environmental Protection
+          Cosine Score     : 0.4123
+          Matching Keywords: beach cleanup, beach, cleanup, kids
+
+  Rank 3: [ITEM_021] Coastal Mangrove Restoration and Children Nature Tour
+          Cause Area       : Environmental Protection
+          Cosine Score     : 0.1917
+          Matching Keywords: kids, education kids, environmental education, environmental
+
+  Rank 4: [ITEM_004] Weekend STEM and Math Tutoring for Underprivileged Kids
+          Cause Area       : Education & Literacy
+          Cosine Score     : 0.1473
+          Matching Keywords: kids, education kids, weekend, education
+
+  Rank 5: [ITEM_015] Elementary Science Discovery and Homework Help Tutoring Lab
+          Cause Area       : Education & Literacy
+          Cosine Score     : 0.1040
+          Matching Keywords: education kids, kids, education
+
+--- [TEST CASE 2: RETURNING VOLUNTEER RECOMMENDATION] ---
+Volunteer ID: USR_02 (History: Rated Tutoring & Literacy programs with 5.0 stars)
+Expected Outcome: Recommends new educational, tutoring, or youth mentoring activities (unrated).
+
+  Rank 1: [ITEM_028] Coding and Robotics Mentorship for High School Students
+          Cause Area       : Education & Literacy
+          Hybrid Score     : 0.6647 (Hybrid (Content + CF))
+          Profile Overlap  : tutoring, literacy, education literacy
+
+  Rank 2: [ITEM_027] Community Solar Oven Workshop and Renewable Energy Fair
+          Cause Area       : Environmental Protection
+          Hybrid Score     : 0.6495 (Hybrid (Content + CF))
+          Profile Overlap  : science, education, stem
+
+  Rank 3: [ITEM_017] Feline Foster Care and Cat Adoption Weekend Fair
+          Cause Area       : Animal Welfare
+          Hybrid Score     : 0.4768 (Hybrid (Content + CF))
+          Profile Overlap  : public, weekend, foster
+
+  Rank 4: [ITEM_035] Public Park Native Birdhouse and Bat Sanctuary Building
+          Cause Area       : Environmental Protection
+          Hybrid Score     : 0.4499 (Hybrid (Content + CF))
+          Profile Overlap  : education, public, environmental
+
+  Rank 5: [ITEM_021] Coastal Mangrove Restoration and Children Nature Tour
+          Cause Area       : Environmental Protection
+          Hybrid Score     : 0.4200 (Hybrid (Content + CF))
+          Profile Overlap  : education, kids, education kids
+
+--- [TEST CASE 3: COLD-START ITEM RECOMMENDATION (0 RATINGS)] ---
+Cold-Start Item ID: ITEM_038 - "Riverside Community Book and Educational Toy Donation Drive"
+Total Prior Ratings in Database: 0 (Zero ratings)
+Test Procedure: Run a domain query 'rural community donation drive collecting children books and toys' to verify cold-start retrieval.
+
+  Rank 1: [ITEM_038] Riverside Community Book and Educational Toy Donation Drive [TARGET COLD-START ITEM!]
+          Cosine Score     : 0.5462
+          Matching Keywords: donation drive, donation, drive, toys
+
+  Rank 2: [ITEM_006] Community Food Bank Packaging and Distribution Drive
+          Cosine Score     : 0.0745
+          Matching Keywords: drive, community
+
+  Rank 3: [ITEM_025] Rural Mobile Dental and Health Screening Support
+          Cosine Score     : 0.0663
+          Matching Keywords: rural
+
+  Rank 4: [ITEM_027] Community Solar Oven Workshop and Renewable Energy Fair
+          Cosine Score     : 0.0288
+          Matching Keywords: community, children
+
+  Rank 5: [ITEM_030] Sensory Garden Maintenance for Children with Special Needs
+          Cosine Score     : 0.0279
+          Matching Keywords: children
+
+Verification Result: SUCCESS - Cold-start item successfully retrieved and ranked!
+
+================================================================================
