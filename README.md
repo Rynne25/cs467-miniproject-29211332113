@@ -262,7 +262,7 @@ Detailed log is saved in `results/sample_outputs.txt`.
 
 ### What Worked Well:
 - **Semantic Text Matching:** The TF-IDF sublinear vectorizer with unigram + bigram representations captured nuanced phrases (such as *"beach cleanup"*, *"math tutoring"*, *"environmental education"*) with high discriminative power.
-- **Hybrid Synergy:** Combining Content-Based profiling with User-CF improved Precision@5 from 0.28 (Popularity) to **0.52** (Hybrid), while achieving a **93.3% HitRate@5**.
+- **Hybrid Synergy:** Combining Content-Based profiling with User-CF improved Precision@5 from 0.0800 (Popularity) to **0.1600** (Hybrid), while achieving a **60.0% HitRate@5** and providing a balanced recommendation experience.
 - **Cold-Start Resilience:** New volunteer initiatives (`ITEM_038`) with zero historical ratings can be recommended via content and query matching.
 
 ### Limitations & Future Work:
